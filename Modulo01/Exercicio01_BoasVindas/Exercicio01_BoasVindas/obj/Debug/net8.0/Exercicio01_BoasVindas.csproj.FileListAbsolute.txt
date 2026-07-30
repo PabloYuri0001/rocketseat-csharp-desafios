@@ -1,0 +1,14 @@
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\bin\Debug\net8.0\Exercicio01_BoasVindas.exe
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\bin\Debug\net8.0\Exercicio01_BoasVindas.deps.json
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\bin\Debug\net8.0\Exercicio01_BoasVindas.runtimeconfig.json
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\bin\Debug\net8.0\Exercicio01_BoasVindas.dll
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\bin\Debug\net8.0\Exercicio01_BoasVindas.pdb
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\obj\Debug\net8.0\Exercicio01_BoasVindas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\obj\Debug\net8.0\Exercicio01_BoasVindas.AssemblyInfoInputs.cache
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\obj\Debug\net8.0\Exercicio01_BoasVindas.AssemblyInfo.cs
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\obj\Debug\net8.0\Exercicio01_BoasVindas.csproj.CoreCompileInputs.cache
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\obj\Debug\net8.0\Exercicio01_BoasVindas.dll
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\obj\Debug\net8.0\refint\Exercicio01_BoasVindas.dll
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\obj\Debug\net8.0\Exercicio01_BoasVindas.pdb
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\obj\Debug\net8.0\Exercicio01_BoasVindas.genruntimeconfig.cache
+C:\Users\yuri.silva\source\repos\Exercicio01_BoasVindas\Exercicio01_BoasVindas\obj\Debug\net8.0\ref\Exercicio01_BoasVindas.dll

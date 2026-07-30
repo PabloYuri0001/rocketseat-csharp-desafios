@@ -1,0 +1,14 @@
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\bin\Debug\net8.0\Exercicio05_PlacaVeiculo.exe
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\bin\Debug\net8.0\Exercicio05_PlacaVeiculo.deps.json
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\bin\Debug\net8.0\Exercicio05_PlacaVeiculo.runtimeconfig.json
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\bin\Debug\net8.0\Exercicio05_PlacaVeiculo.dll
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\bin\Debug\net8.0\Exercicio05_PlacaVeiculo.pdb
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\obj\Debug\net8.0\Exercicio05_PlacaVeiculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\obj\Debug\net8.0\Exercicio05_PlacaVeiculo.AssemblyInfoInputs.cache
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\obj\Debug\net8.0\Exercicio05_PlacaVeiculo.AssemblyInfo.cs
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\obj\Debug\net8.0\Exercicio05_PlacaVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\obj\Debug\net8.0\Exercicio05_PlacaVeiculo.dll
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\obj\Debug\net8.0\refint\Exercicio05_PlacaVeiculo.dll
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\obj\Debug\net8.0\Exercicio05_PlacaVeiculo.pdb
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\obj\Debug\net8.0\Exercicio05_PlacaVeiculo.genruntimeconfig.cache
+C:\Users\yuri.silva\source\repos\Exercicio05_PlacaVeiculo\Exercicio05_PlacaVeiculo\obj\Debug\net8.0\ref\Exercicio05_PlacaVeiculo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercicio05_PlacaVeiculo/1.0.0": {
+        "runtime": {
+          "Exercicio05_PlacaVeiculo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio05_PlacaVeiculo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
