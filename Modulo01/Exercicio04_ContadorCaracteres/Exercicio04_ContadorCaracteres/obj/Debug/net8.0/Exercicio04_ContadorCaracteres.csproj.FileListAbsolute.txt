@@ -1,0 +1,14 @@
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\obj\Debug\net8.0\Exercicio04_ContadorCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\obj\Debug\net8.0\Exercicio04_ContadorCaracteres.AssemblyInfoInputs.cache
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\obj\Debug\net8.0\Exercicio04_ContadorCaracteres.AssemblyInfo.cs
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\obj\Debug\net8.0\Exercicio04_ContadorCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\bin\Debug\net8.0\Exercicio04_ContadorCaracteres.exe
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\bin\Debug\net8.0\Exercicio04_ContadorCaracteres.deps.json
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\bin\Debug\net8.0\Exercicio04_ContadorCaracteres.runtimeconfig.json
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\bin\Debug\net8.0\Exercicio04_ContadorCaracteres.dll
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\bin\Debug\net8.0\Exercicio04_ContadorCaracteres.pdb
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\obj\Debug\net8.0\Exercicio04_ContadorCaracteres.dll
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\obj\Debug\net8.0\refint\Exercicio04_ContadorCaracteres.dll
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\obj\Debug\net8.0\Exercicio04_ContadorCaracteres.pdb
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\obj\Debug\net8.0\Exercicio04_ContadorCaracteres.genruntimeconfig.cache
+C:\Users\yuri.silva\source\repos\Exercicio04_ContadorCaracteres\Exercicio04_ContadorCaracteres\obj\Debug\net8.0\ref\Exercicio04_ContadorCaracteres.dll

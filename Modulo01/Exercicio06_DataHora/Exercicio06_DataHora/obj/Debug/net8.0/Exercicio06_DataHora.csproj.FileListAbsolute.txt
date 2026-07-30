@@ -1,0 +1,14 @@
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\obj\Debug\net8.0\Exercicio06_DataHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\obj\Debug\net8.0\Exercicio06_DataHora.AssemblyInfoInputs.cache
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\obj\Debug\net8.0\Exercicio06_DataHora.AssemblyInfo.cs
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\obj\Debug\net8.0\Exercicio06_DataHora.csproj.CoreCompileInputs.cache
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\bin\Debug\net8.0\Exercicio06_DataHora.exe
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\bin\Debug\net8.0\Exercicio06_DataHora.deps.json
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\bin\Debug\net8.0\Exercicio06_DataHora.runtimeconfig.json
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\bin\Debug\net8.0\Exercicio06_DataHora.dll
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\bin\Debug\net8.0\Exercicio06_DataHora.pdb
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\obj\Debug\net8.0\Exercicio06_DataHora.dll
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\obj\Debug\net8.0\refint\Exercicio06_DataHora.dll
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\obj\Debug\net8.0\Exercicio06_DataHora.pdb
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\obj\Debug\net8.0\Exercicio06_DataHora.genruntimeconfig.cache
+C:\Users\yuri.silva\source\repos\Exercicio06_DataHora\Exercicio06_DataHora\obj\Debug\net8.0\ref\Exercicio06_DataHora.dll

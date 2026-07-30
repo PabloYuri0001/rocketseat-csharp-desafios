@@ -1,0 +1,14 @@
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\bin\Debug\net8.0\Exercicio02_NomeCompleto.exe
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\bin\Debug\net8.0\Exercicio02_NomeCompleto.deps.json
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\bin\Debug\net8.0\Exercicio02_NomeCompleto.runtimeconfig.json
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\bin\Debug\net8.0\Exercicio02_NomeCompleto.dll
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\bin\Debug\net8.0\Exercicio02_NomeCompleto.pdb
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\obj\Debug\net8.0\Exercicio02_NomeCompleto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\obj\Debug\net8.0\Exercicio02_NomeCompleto.AssemblyInfoInputs.cache
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\obj\Debug\net8.0\Exercicio02_NomeCompleto.AssemblyInfo.cs
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\obj\Debug\net8.0\Exercicio02_NomeCompleto.csproj.CoreCompileInputs.cache
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\obj\Debug\net8.0\Exercicio02_NomeCompleto.dll
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\obj\Debug\net8.0\refint\Exercicio02_NomeCompleto.dll
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\obj\Debug\net8.0\Exercicio02_NomeCompleto.pdb
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\obj\Debug\net8.0\Exercicio02_NomeCompleto.genruntimeconfig.cache
+C:\Users\yuri.silva\source\repos\Exercicio02_NomeCompleto\Exercicio02_NomeCompleto\obj\Debug\net8.0\ref\Exercicio02_NomeCompleto.dll
