@@ -1,0 +1,176 @@
+# 📚 API Livraria
+
+API REST desenvolvida em **C# com .NET** para gerenciamento de livros de uma livraria.
+
+O projeto foi desenvolvido com o objetivo de praticar os principais conceitos de desenvolvimento de APIs REST utilizando ASP.NET Core, incluindo **CRUD, validações, regras de negócio, status HTTP, Swagger, Request/Response e organização do domínio**.
+
+## 🚀 Tecnologias utilizadas
+
+* C#
+* .NET
+* ASP.NET Core
+* Swagger / OpenAPI
+* LINQ
+* Data Annotations
+
+## 📋 Funcionalidades
+
+A API permite:
+
+* Criar um livro;
+* Listar todos os livros;
+* Buscar um livro pelo ID;
+* Atualizar um livro;
+* Excluir um livro;
+* Validar os dados recebidos;
+* Impedir livros duplicados;
+* Validar gênero;
+* Validar preço e estoque;
+* Registrar as datas de criação e atualização.
+
+## 📌 Estrutura do livro
+
+Cada livro possui as seguintes informações:
+
+| Campo       | Tipo       | Descrição                                  |
+| ----------- | ---------- | ------------------------------------------ |
+| `Id`        | `Guid`     | Identificador único gerado automaticamente |
+| `Title`     | `string`   | Título do livro                            |
+| `Author`    | `string`   | Autor do livro                             |
+| `Genre`     | `string`   | Gênero do livro                            |
+| `Price`     | `decimal`  | Preço do livro                             |
+| `Stock`     | `int`      | Quantidade disponível em estoque           |
+| `CreatedAt` | `DateTime` | Data de criação                            |
+| `UpdatedAt` | `DateTime` | Data da última alteração                   |
+
+## 🔗 Endpoints
+
+### Criar livro
+
+```http
+POST /api/books
+```
+
+Cria um novo livro.
+
+### Listar livros
+
+```http
+GET /api/books
+```
+
+Retorna todos os livros cadastrados.
+
+Também permite a utilização de filtros opcionais.
+
+### Buscar livro por ID
+
+```http
+GET /api/books/{id}
+```
+
+Retorna um livro específico através do seu `Guid`.
+
+### Atualizar livro
+
+```http
+PUT /api/books/{id}
+```
+
+Atualiza as informações de um livro existente.
+
+### Excluir livro
+
+```http
+DELETE /api/books/{id}
+```
+
+Remove um livro da lista.
+
+## ✅ Validações
+
+A API possui validações para garantir a integridade dos dados.
+
+* `Title` deve possuir entre 2 e 120 caracteres;
+* `Author` deve possuir entre 2 e 120 caracteres;
+* `Genre` deve ser um gênero válido;
+* `Price` deve ser maior ou igual a `0`;
+* `Stock` deve ser maior ou igual a `0`;
+* Não são permitidos livros duplicados pelo conjunto de título e autor;
+* O `Id` é gerado automaticamente através de `Guid`.
+
+## 📊 Status Codes
+
+A API utiliza códigos HTTP de acordo com o resultado da operação:
+
+| Status                      | Utilização                                    |
+| --------------------------- | --------------------------------------------- |
+| `200 OK`                    | Consulta ou atualização realizada com sucesso |
+| `201 Created`               | Livro criado com sucesso                      |
+| `204 No Content`            | Operação concluída sem conteúdo para retornar |
+| `400 Bad Request`           | Dados inválidos ou requisição incorreta       |
+| `404 Not Found`             | Livro não encontrado                          |
+| `409 Conflict`              | Conflito com dados já existentes              |
+| `500 Internal Server Error` | Erro inesperado no servidor                   |
+
+## 📖 Documentação com Swagger
+
+A API possui documentação através do **Swagger/OpenAPI**.
+
+O Swagger permite visualizar os endpoints disponíveis, seus parâmetros, dados de entrada e possíveis respostas da API, além de possibilitar a execução das requisições diretamente pela interface.
+
+## 🧱 Organização do projeto
+
+O projeto utiliza uma separação entre os dados recebidos pela API, a entidade principal e os dados retornados.
+
+Fluxo simplificado:
+
+```text
+Request
+   ↓
+Controller
+   ↓
+Book
+   ↓
+List<Book>
+   ↓
+Response
+```
+
+### Request
+
+Responsável pelos dados recebidos nas requisições.
+
+Exemplo:
+
+```csharp
+RequestCreateBookJson
+```
+
+### Book
+
+Representa a entidade principal do domínio.
+
+```csharp
+Book
+```
+
+### Response
+
+Responsável pelos dados retornados pela API.
+
+```csharp
+ResponseBookJson
+```
+
+## 🎯 Objetivo
+
+Este projeto faz parte dos meus estudos em desenvolvimento **Back-end com C# e .NET**, com foco na construção de APIs REST e aplicação prática dos conceitos aprendidos.
+
+---
+
+## 👨‍💻 Autor
+
+**Pablo Yuri**
+
+Projeto desenvolvido para fins de estudo e prática em desenvolvimento Back-end com C# e .NET.
