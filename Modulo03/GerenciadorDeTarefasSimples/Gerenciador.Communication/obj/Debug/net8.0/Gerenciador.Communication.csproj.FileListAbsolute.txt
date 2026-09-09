@@ -1,0 +1,11 @@
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\bin\Debug\net8.0\Gerenciador.Communication.deps.json
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\bin\Debug\net8.0\Gerenciador.Communication.dll
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\bin\Debug\net8.0\Gerenciador.Communication.pdb
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\obj\Debug\net8.0\Gerenciador.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\obj\Debug\net8.0\Gerenciador.Communication.AssemblyInfoInputs.cache
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\obj\Debug\net8.0\Gerenciador.Communication.AssemblyInfo.cs
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\obj\Debug\net8.0\Gerenciador.Communication.csproj.CoreCompileInputs.cache
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\obj\Debug\net8.0\Gerenciador.Communication.dll
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\obj\Debug\net8.0\refint\Gerenciador.Communication.dll
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\obj\Debug\net8.0\Gerenciador.Communication.pdb
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Communication\obj\Debug\net8.0\ref\Gerenciador.Communication.dll
