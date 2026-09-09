@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Gerenciador.API/Gerenciador.API.csproj" />
+  <Project Path="Gerenciador.Aplication/Gerenciador.Aplication.csproj" />
+  <Project Path="Gerenciador.Communication/Gerenciador.Communication.csproj" />
+</Solution>

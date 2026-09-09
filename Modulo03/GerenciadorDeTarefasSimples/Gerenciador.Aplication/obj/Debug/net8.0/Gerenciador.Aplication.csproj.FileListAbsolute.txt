@@ -1,0 +1,15 @@
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\bin\Debug\net8.0\Gerenciador.Aplication.deps.json
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\bin\Debug\net8.0\Gerenciador.Aplication.dll
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\bin\Debug\net8.0\Gerenciador.Aplication.pdb
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\bin\Debug\net8.0\Gerenciador.Communication.dll
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\bin\Debug\net8.0\Gerenciador.Communication.pdb
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\obj\Debug\net8.0\Gerenciador.Aplication.csproj.AssemblyReference.cache
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\obj\Debug\net8.0\Gerenciador.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\obj\Debug\net8.0\Gerenciador.Aplication.AssemblyInfoInputs.cache
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\obj\Debug\net8.0\Gerenciador.Aplication.AssemblyInfo.cs
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\obj\Debug\net8.0\Gerenciador.Aplication.csproj.CoreCompileInputs.cache
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\obj\Debug\net8.0\Gerencia.3B51079F.Up2Date
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\obj\Debug\net8.0\Gerenciador.Aplication.dll
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\obj\Debug\net8.0\refint\Gerenciador.Aplication.dll
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\obj\Debug\net8.0\Gerenciador.Aplication.pdb
+C:\Users\yuri.silva\Documents\Curso-C-Sharp\GerenciadorDeTarefasSimples\Gerenciador.Aplication\obj\Debug\net8.0\ref\Gerenciador.Aplication.dll
