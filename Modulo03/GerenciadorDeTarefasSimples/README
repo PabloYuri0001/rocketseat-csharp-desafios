@@ -1,0 +1,191 @@
+# Gerenciador de Tarefas
+
+API REST desenvolvida em **C# e ASP.NET Core** para gerenciamento de tarefas. O projeto foi desenvolvido com foco no aprendizado e aplicação de conceitos de desenvolvimento de APIs, organização em camadas, validação de dados, tratamento de erros e utilização de casos de uso.
+
+## 🚀 Funcionalidades
+
+* Criar tarefas
+* Listar tarefas
+* Buscar tarefa por ID
+* Atualizar tarefas
+* Excluir tarefas
+* Validação dos dados recebidos
+* Validação de regras de negócio
+* Tratamento de erros
+* Respostas HTTP adequadas para cada situação
+* Documentação e testes dos endpoints através do Swagger/Postman
+
+## 📋 Dados da tarefa
+
+Cada tarefa possui:
+
+* `Id`
+* `Name`
+* `Description`
+* `DueDate`
+* `Priority`
+* `Status`
+
+### Exemplo
+
+```json
+{
+  "name": "Estudar C#",
+  "description": "Estudar LINQ, Lambda e ASP.NET Core",
+  "dueDate": "2026-09-10T18:00:00",
+  "priority": "High",
+  "status": "Pending"
+}
+```
+
+## 🏗️ Estrutura do projeto
+
+O projeto utiliza uma separação entre as principais responsabilidades da aplicação:
+
+```text
+Gerenciador
+│
+├── Application
+│   ├── Repositories
+│   ├── Results
+│   └── UseCases
+│       ├── Create
+│       ├── Read
+│       ├── Update
+│       └── Delete
+│
+├── Communication
+│   ├── Enums
+│   ├── Requests
+│   └── Responses
+│
+└── API
+    └── Controllers
+```
+
+A aplicação utiliza **Use Cases** para concentrar as regras de negócio e **Repository** para o acesso aos dados.
+
+Atualmente, os dados são armazenados em memória através de uma lista, sem utilização de banco de dados.
+
+## ✅ Validações
+
+O projeto possui validações utilizando `DataAnnotations` nos objetos de requisição e validações adicionais dentro dos Use Cases.
+
+Entre as validações implementadas estão:
+
+* Nome entre 3 e 100 caracteres
+* Descrição com no máximo 500 caracteres
+* ID obrigatório
+* Verificação da existência da tarefa
+* Data limite não pode ser anterior à data atual
+* Prioridade deve possuir um valor válido
+* Status deve possuir um valor válido
+
+Os erros são retornados através de uma estrutura padronizada de resposta.
+
+## 📡 Endpoints
+
+### Criar tarefa
+
+```http
+POST /tasks
+```
+
+### Listar tarefas
+
+```http
+GET /tasks
+```
+
+### Buscar tarefa
+
+```http
+GET /tasks/{id}
+```
+
+### Atualizar tarefa
+
+```http
+PUT /tasks/{id}
+```
+
+O endpoint permite atualizar apenas os campos enviados na requisição.
+
+### Excluir tarefa
+
+```http
+DELETE /tasks/{id}
+```
+
+Em caso de sucesso, a API retorna:
+
+```http
+204 No Content
+```
+
+## ❌ Tratamento de erros
+
+A API utiliza códigos HTTP para representar o resultado das operações:
+
+| Código            | Significado                          |
+| ----------------- | ------------------------------------ |
+| `200 OK`          | Operação realizada com sucesso       |
+| `201 Created`     | Recurso criado com sucesso           |
+| `204 No Content`  | Recurso excluído com sucesso         |
+| `400 Bad Request` | Dados ou regras de negócio inválidos |
+| `404 Not Found`   | Recurso não encontrado               |
+
+## 🛠️ Tecnologias
+
+* C#
+* .NET
+* ASP.NET Core
+* REST API
+* Swagger
+* DataAnnotations
+* LINQ
+
+## 🧪 Testes
+
+Os endpoints podem ser testados utilizando o **Swagger** ou **Postman**.
+
+Os testes incluem cenários de sucesso e erro, como:
+
+* Criação de tarefas válidas
+* Dados obrigatórios não informados
+* ID inválido
+* Tarefa inexistente
+* Data limite inválida
+* Status inválido
+* Prioridade inválida
+* Atualização parcial
+* Exclusão de tarefas
+
+## 📚 Objetivo do projeto
+
+Este projeto foi desenvolvido como prática para consolidar conhecimentos em desenvolvimento backend com **C# e ASP.NET Core**, explorando conceitos como:
+
+* API REST
+* HTTP Status Codes
+* Controllers
+* DTOs
+* Injeção de Dependência
+* Use Cases
+* Repository Pattern
+* Validação
+* Tratamento de erros
+* LINQ
+* Enums
+* Organização e separação de responsabilidades
+
+## 🔮 Próximos passos
+
+Algumas evoluções planejadas para o projeto:
+
+* Implementação de banco de dados
+* Entity Framework Core
+* Persistência das tarefas
+* Migrações
+* Autenticação e autorização
+* Testes automatizados
+* Melhorias na arquitetura da aplicação
